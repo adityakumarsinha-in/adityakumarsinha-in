@@ -10,7 +10,6 @@ A passionate and self-driven B. Tech student majoring in Computer Science Engine
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=adityakumarsinha-in&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 [![GitHub Streak](https://streak-stats.demolab.com/?user=adityakumarsinha-in&theme=dark&hide_border=false)](https://git.io/streak-stats)<br/>
-![](https://streak-stats.demolab.com/?user=&theme=dark&hide_)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=adityakumarsinha-in&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
